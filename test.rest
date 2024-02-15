@@ -1,0 +1,167 @@
+###
+
+POST  http://127.0.0.1:5000/user/register HTTP/1.1
+content-type: application/json
+
+{
+    "userEmail": "admin@gmail.com",
+    "userName": "admin",
+    "userPassword": "admin"
+}
+
+###
+
+POST  http://127.0.0.1:5000/user/login HTTP/1.1
+content-type: application/json
+
+{
+    "userEmail": "admin@gmail.com",
+    "userPassword": "admin"
+}
+
+###
+
+
+POST http://127.0.0.1:5000/package/add HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcwNzgwNTk2OSwianRpIjoiYWVkMmY5N2UtMTRmNS00MWZmLWJlNjAtMjllZDRiNDE2MDg5IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImFkbWluQGdtYWlsLmNvbSIsIm5iZiI6MTcwNzgwNTk2OSwiY3NyZiI6IjI3MzUxNTAxLTI0NzQtNDQxZi04ZTRkLWU4M2E1MGE3MmFmOCIsImV4cCI6MTcwNzgwNjg2OSwiaXNfYWRtaW4iOnRydWV9.NCTCe09ByvP8j6eYBu5F1askdmd6_AkeID9K_5-8x24
+
+{
+    
+    
+}
+
+###
+
+
+GET http://127.0.0.1:5000/package/show HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcwNzgwNTk2OSwianRpIjoiYWVkMmY5N2UtMTRmNS00MWZmLWJlNjAtMjllZDRiNDE2MDg5IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImFkbWluQGdtYWlsLmNvbSIsIm5iZiI6MTcwNzgwNTk2OSwiY3NyZiI6IjI3MzUxNTAxLTI0NzQtNDQxZi04ZTRkLWU4M2E1MGE3MmFmOCIsImV4cCI6MTcwNzgwNjg2OSwiaXNfYWRtaW4iOnRydWV9.NCTCe09ByvP8j6eYBu5F1askdmd6_AkeID9K_5-8x24
+
+{
+    
+    
+}
+
+###
+
+GET http://127.0.0.1:5000/package/show/70ba2ba2-e7fb-42e9-bea2-aadf3b3753b6 HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcwNzgwNTk2OSwianRpIjoiYWVkMmY5N2UtMTRmNS00MWZmLWJlNjAtMjllZDRiNDE2MDg5IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImFkbWluQGdtYWlsLmNvbSIsIm5iZiI6MTcwNzgwNTk2OSwiY3NyZiI6IjI3MzUxNTAxLTI0NzQtNDQxZi04ZTRkLWU4M2E1MGE3MmFmOCIsImV4cCI6MTcwNzgwNjg2OSwiaXNfYWRtaW4iOnRydWV9.NCTCe09ByvP8j6eYBu5F1askdmd6_AkeID9K_5-8x24
+
+{
+    
+    
+}
+
+###
+
+GET http://127.0.0.1:5000/package/search?term=Hartman HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcwNzgwNTk2OSwianRpIjoiYWVkMmY5N2UtMTRmNS00MWZmLWJlNjAtMjllZDRiNDE2MDg5IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImFkbWluQGdtYWlsLmNvbSIsIm5iZiI6MTcwNzgwNTk2OSwiY3NyZiI6IjI3MzUxNTAxLTI0NzQtNDQxZi04ZTRkLWU4M2E1MGE3MmFmOCIsImV4cCI6MTcwNzgwNjg2OSwiaXNfYWRtaW4iOnRydWV9.NCTCe09ByvP8j6eYBu5F1askdmd6_AkeID9K_5-8x24
+
+{
+
+
+}
+
+###
+
+PUT http://127.0.0.1:5000/package/update/<package-id> HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcwNzgwNTk2OSwianRpIjoiYWVkMmY5N2UtMTRmNS00MWZmLWJlNjAtMjllZDRiNDE2MDg5IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImFkbWluQGdtYWlsLmNvbSIsIm5iZiI6MTcwNzgwNTk2OSwiY3NyZiI6IjI3MzUxNTAxLTI0NzQtNDQxZi04ZTRkLWU4M2E1MGE3MmFmOCIsImV4cCI6MTcwNzgwNjg2OSwiaXNfYWRtaW4iOnRydWV9.NCTCe09ByvP8j6eYBu5F1askdmd6_AkeID9K_5-8x24
+
+{
+    
+    
+}
+
+###
+
+DELETE http://127.0.0.1:5000/package/delete/<package-id> HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcwNzgwNTk2OSwianRpIjoiYWVkMmY5N2UtMTRmNS00MWZmLWJlNjAtMjllZDRiNDE2MDg5IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImFkbWluQGdtYWlsLmNvbSIsIm5iZiI6MTcwNzgwNTk2OSwiY3NyZiI6IjI3MzUxNTAxLTI0NzQtNDQxZi04ZTRkLWU4M2E1MGE3MmFmOCIsImV4cCI6MTcwNzgwNjg2OSwiaXNfYWRtaW4iOnRydWV9.NCTCe09ByvP8j6eYBu5F1askdmd6_AkeID9K_5-8x24
+
+{
+    
+    
+}
+
+###
+
+POST http://127.0.0.1:5000/package/70ba2ba2-e7fb-42e9-bea2-aadf3b3753b6/add-image HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcwNzgwNTk2OSwianRpIjoiYWVkMmY5N2UtMTRmNS00MWZmLWJlNjAtMjllZDRiNDE2MDg5IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImFkbWluQGdtYWlsLmNvbSIsIm5iZiI6MTcwNzgwNTk2OSwiY3NyZiI6IjI3MzUxNTAxLTI0NzQtNDQxZi04ZTRkLWU4M2E1MGE3MmFmOCIsImV4cCI6MTcwNzgwNjg2OSwiaXNfYWRtaW4iOnRydWV9.NCTCe09ByvP8j6eYBu5F1askdmd6_AkeID9K_5-8x24
+
+{
+    
+    
+}
+
+###
+
+DELETE  http://127.0.0.1:5000/package/<package-id>/delete-image/<image-id> HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcwNzgwNTk2OSwianRpIjoiYWVkMmY5N2UtMTRmNS00MWZmLWJlNjAtMjllZDRiNDE2MDg5IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImFkbWluQGdtYWlsLmNvbSIsIm5iZiI6MTcwNzgwNTk2OSwiY3NyZiI6IjI3MzUxNTAxLTI0NzQtNDQxZi04ZTRkLWU4M2E1MGE3MmFmOCIsImV4cCI6MTcwNzgwNjg2OSwiaXNfYWRtaW4iOnRydWV9.NCTCe09ByvP8j6eYBu5F1askdmd6_AkeID9K_5-8x24
+
+{
+    
+    
+}
+
+###
+
+POST http://127.0.0.1:5000/booking/add HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcwNzgwNTk2OSwianRpIjoiYWVkMmY5N2UtMTRmNS00MWZmLWJlNjAtMjllZDRiNDE2MDg5IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImFkbWluQGdtYWlsLmNvbSIsIm5iZiI6MTcwNzgwNTk2OSwiY3NyZiI6IjI3MzUxNTAxLTI0NzQtNDQxZi04ZTRkLWU4M2E1MGE3MmFmOCIsImV4cCI6MTcwNzgwNjg2OSwiaXNfYWRtaW4iOnRydWV9.NCTCe09ByvP8j6eYBu5F1askdmd6_AkeID9K_5-8x24
+
+{
+    "bookingUserId": "4cc3ecb9-1552-4c4c-a57d-a631f959e2b3",
+    "bookingPackageId": "70ba2ba2-e7fb-42e9-bea2-aadf3b3753b6"
+    
+}
+
+###
+
+GET http://127.0.0.1:5000/booking/show HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcwNzgwNTk2OSwianRpIjoiYWVkMmY5N2UtMTRmNS00MWZmLWJlNjAtMjllZDRiNDE2MDg5IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImFkbWluQGdtYWlsLmNvbSIsIm5iZiI6MTcwNzgwNTk2OSwiY3NyZiI6IjI3MzUxNTAxLTI0NzQtNDQxZi04ZTRkLWU4M2E1MGE3MmFmOCIsImV4cCI6MTcwNzgwNjg2OSwiaXNfYWRtaW4iOnRydWV9.NCTCe09ByvP8j6eYBu5F1askdmd6_AkeID9K_5-8x24
+
+{
+
+
+}
+
+###
+
+GET http://127.0.0.1:5000/booking/show/<booking-id> HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcwNzgwNTk2OSwianRpIjoiYWVkMmY5N2UtMTRmNS00MWZmLWJlNjAtMjllZDRiNDE2MDg5IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImFkbWluQGdtYWlsLmNvbSIsIm5iZiI6MTcwNzgwNTk2OSwiY3NyZiI6IjI3MzUxNTAxLTI0NzQtNDQxZi04ZTRkLWU4M2E1MGE3MmFmOCIsImV4cCI6MTcwNzgwNjg2OSwiaXNfYWRtaW4iOnRydWV9.NCTCe09ByvP8j6eYBu5F1askdmd6_AkeID9K_5-8x24
+
+{
+
+
+}
+
+###
+
+GET http://127.0.0.1:5000/booking/user/4cc3ecb9-1552-4c4c-a57d-a631f959e2b3 HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcwNzgwNTk2OSwianRpIjoiYWVkMmY5N2UtMTRmNS00MWZmLWJlNjAtMjllZDRiNDE2MDg5IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImFkbWluQGdtYWlsLmNvbSIsIm5iZiI6MTcwNzgwNTk2OSwiY3NyZiI6IjI3MzUxNTAxLTI0NzQtNDQxZi04ZTRkLWU4M2E1MGE3MmFmOCIsImV4cCI6MTcwNzgwNjg2OSwiaXNfYWRtaW4iOnRydWV9.NCTCe09ByvP8j6eYBu5F1askdmd6_AkeID9K_5-8x24
+
+{
+
+
+}
+
+###
+
+GET http://127.0.0.1:5000/booking/package/70ba2ba2-e7fb-42e9-bea2-aadf3b3753b6 HTTP/1.1
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVzaCI6ZmFsc2UsImlhdCI6MTcwNzgwNTk2OSwianRpIjoiYWVkMmY5N2UtMTRmNS00MWZmLWJlNjAtMjllZDRiNDE2MDg5IiwidHlwZSI6ImFjY2VzcyIsInN1YiI6ImFkbWluQGdtYWlsLmNvbSIsIm5iZiI6MTcwNzgwNTk2OSwiY3NyZiI6IjI3MzUxNTAxLTI0NzQtNDQxZi04ZTRkLWU4M2E1MGE3MmFmOCIsImV4cCI6MTcwNzgwNjg2OSwiaXNfYWRtaW4iOnRydWV9.NCTCe09ByvP8j6eYBu5F1askdmd6_AkeID9K_5-8x24
+
+{
+
+
+}
+

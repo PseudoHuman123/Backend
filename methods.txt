@@ -1,0 +1,918 @@
+'aba' 
+ - 068153559
+
+'address' 
+ - 00131 Garza Center Suite 044
+Ashleyfort, MO 36516
+
+'administrative_unit' 
+ - New York
+
+'am_pm' 
+ - AM
+
+'android_platform_token' 
+ - Android 3.2.1
+
+'ascii_company_email' 
+ - fitzgeraldshelley@perry.info
+
+'ascii_email' 
+ - ebony29@gmail.com
+
+'ascii_free_email' 
+ - yeverett@yahoo.com
+
+'ascii_safe_email' 
+ - browndawn@example.org
+
+'bank_country' 
+ - GB
+
+'basic_phone_number' 
+ - (324)288-3914
+
+'bban' 
+ - XVPM71211854031088
+
+'boolean' 
+ - False
+
+'bothify' 
+ - 76 Mz
+
+'bs' 
+ - monetize leading-edge e-services
+
+'building_number' 
+ - 858
+
+'catch_phrase' 
+ - Upgradable mission-critical collaboration
+
+'century' 
+ - XV
+
+'chrome' 
+ - Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/61.0.888.0 Safari/534.1
+
+'city' 
+ - Lake Philliptown
+
+'city_prefix' 
+ - Port
+
+'city_suffix' 
+ - side
+
+'color' 
+ - #1c81a5
+
+'color_hsl' 
+ - (18, 94, 83)
+
+'color_hsv' 
+ - (50, 68, 88)
+
+'color_name' 
+ - Teal
+
+'color_rgb' 
+ - (204, 226, 36)
+
+'color_rgb_float' 
+ - (0.95, 0.38, 0.4940000000000001)
+
+'company' 
+ - Miller and Sons
+
+'company_email' 
+ - stephen42@scott.com
+
+'company_suffix' 
+ - and Sons
+
+'coordinate' 
+ - 60.994582
+
+'country' 
+ - Iran
+
+'country_calling_code' 
+ - +374 47
+
+'country_code' 
+ - VC
+
+'credit_card_expire' 
+ - 10/25
+
+'credit_card_full' 
+ - VISA 16 digit
+Charles Allen
+4194646368422737 09/32
+CVC: 675
+
+
+'credit_card_number' 
+ - 4323450332251
+
+'credit_card_provider' 
+ - Mastercard
+
+'credit_card_security_code' 
+ - 913
+
+'cryptocurrency' 
+ - ('MSC', 'Omni')
+
+'cryptocurrency_code' 
+ - XMR
+
+'cryptocurrency_name' 
+ - MazaCoin
+
+'csv' 
+ - "Scott Moyer","6107 Matthew Junction Suite 201
+Port Katherine, MD 79296"
+"Christine Brown","33231 Cheryl Lock
+West Melanie, OH 24646"
+"Gregory Glover","6839 Hobbs Island Suite 263
+East Erinbury, SD 98724"
+"Terry Hall","0629 Nichole View Apt. 780
+Port Jessicaside, AR 23791"
+"Lindsey Dillon","49330 Hill Road Apt. 670
+Robinfurt, GU 04498"
+"Jade Williams","458 Michael Lodge Suite 767
+New Eric, MD 40254"
+"Martha Brennan MD","9416 Tara Courts Apt. 190
+East Benjamin, NY 06909"
+"Mr. Daniel Walker","40708 Ferguson Meadow
+East Brent, AS 78258"
+"Emily Christian","352 Jack Haven Suite 019
+Millschester, UT 69118"
+"Benjamin Johnson","029 Joel Road Suite 593
+Caldwellburgh, GA 40825"
+
+
+'currency' 
+ - ('LBP', 'Lebanese pound')
+
+'currency_code' 
+ - CZK
+
+'currency_name' 
+ - Botswana pula
+
+'currency_symbol' 
+ - SM
+
+'current_country' 
+ - United States
+
+'current_country_code' 
+ - US
+
+'date' 
+ - 2004-11-20
+
+'date_between' 
+ - 2011-04-07
+
+'date_between_dates' 
+ - 2024-02-11
+
+'date_object' 
+ - 2001-10-17
+
+'date_of_birth' 
+ - 1915-03-11
+
+'date_this_century' 
+ - 2011-03-10
+
+'date_this_decade' 
+ - 2020-08-04
+
+'date_this_month' 
+ - 2024-02-01
+
+'date_this_year' 
+ - 2024-01-22
+
+'date_time' 
+ - 2018-02-02 21:13:53.047055
+
+'date_time_ad' 
+ - 1039-11-25 16:18:28.037422
+
+'date_time_between' 
+ - 2015-07-31 09:58:05.086055
+
+'date_time_between_dates' 
+ - 2024-02-11 11:33:27
+
+'date_time_this_century' 
+ - 2017-01-17 00:55:27.189698
+
+'date_time_this_decade' 
+ - 2023-10-27 22:10:23.153234
+
+'date_time_this_month' 
+ - 2024-02-01 17:09:18.069424
+
+'date_time_this_year' 
+ - 2024-02-11 07:08:19.648285
+
+'day_of_month' 
+ - 11
+
+'day_of_week' 
+ - Sunday
+
+'dga' 
+ - lqskod.com
+
+'domain_name' 
+ - pope.com
+
+'domain_word' 
+ - brown
+
+'dsv' 
+ - "Johnny Flores","58611 Daniels Mission Apt. 706
+Barrettshire, IL 50280"
+"Jessica Thomas","041 Conway Courts Apt. 387
+Adamstad, FL 78374"
+"Michele White","36452 Matthew Bypass Suite 894
+Jamesbury, MS 53805"
+"Johnathan Farrell","45995 Amber Parks Apt. 334
+Shaunport, FL 86574"
+"Maria Steele","8595 Wells Springs Suite 983
+Coletown, VA 84319"
+"Patrick Hancock","900 Warren Plains Suite 799
+South Marilynside, NC 69763"
+"Kendra Jackson","395 Cowan Haven
+North Jose, GA 68719"
+"David Lewis","11517 Brandi Ridge Apt. 056
+Whitemouth, HI 68316"
+"Debbie Burton","PSC 3681, Box 9324
+APO AP 36644"
+"Katherine Hoffman","Unit 4170 Box 4527
+DPO AE 00667"
+
+
+'ean' 
+ - 5309523983056
+
+'ean13' 
+ - 4883902740245
+
+'ean8' 
+ - 75107864
+
+'ein' 
+ - 40-4969972
+
+'email' 
+ - imercado@example.com
+
+'emoji' 
+ - 🚴🏿
+
+'file_extension' 
+ - wav
+
+'file_name' 
+ - rate.ppt
+
+'file_path' 
+ - /figure/particular.mp4
+
+'firefox' 
+ - Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_9; rv:1.9.6.20) Gecko/9636-06-25 18:11:18.748199 Firefox/3.6.5
+
+'first_name' 
+ - Keith
+
+'first_name_female' 
+ - Leslie
+
+'first_name_male' 
+ - Jeffrey
+
+'first_name_nonbinary' 
+ - James
+
+'fixed_width' 
+ - Stephanie Wheeler   18 
+Wayne Perkins       17 
+Brenda Davis        17 
+Jose Davis          12 
+Kimberly Hubbard    0  
+Brandon Davis       12 
+Shawna Griffin      8  
+Raven Esparza       16 
+Andrea Lyons        4  
+Tammy Mueller       0  
+
+'free_email' 
+ - obrienpatricia@hotmail.com
+
+'free_email_domain' 
+ - yahoo.com
+
+'future_date' 
+ - 2024-02-17
+
+'future_datetime' 
+ - 2024-02-28 10:35:53.763660
+
+'get_providers' 
+ - [<faker.providers.user_agent.Provider object at 0x101854350>, <faker.providers.ssn.en_US.Provider object at 0x101854250>, <faker.providers.sbn.Provider object at 0x1006e15d0>, <faker.providers.python.Provider object at 0x101896c10>, <faker.providers.profile.Provider object at 0x1014e2410>, <faker.providers.phone_number.en_US.Provider object at 0x101896890>, <faker.providers.person.en_US.Provider object at 0x1014e2310>, <faker.providers.passport.en_US.Provider object at 0x10184f390>, <faker.providers.misc.en_US.Provider object at 0x1018256d0>, <faker.providers.lorem.en_US.Provider object at 0x1014ca290>, <faker.providers.job.en_US.Provider object at 0x1018075d0>, <faker.providers.isbn.Provider object at 0x101823690>, <faker.providers.internet.en_US.Provider object at 0x101807510>, <faker.providers.geo.en_US.Provider object at 0x1014d7190>, <faker.providers.file.Provider object at 0x10153a390>, <faker.providers.emoji.Provider object at 0x1018210d0>, <faker.providers.date_time.en_US.Provider object at 0x101807710>, <faker.providers.currency.en_US.Provider object at 0x101807550>, <faker.providers.credit_card.en_US.Provider object at 0x1014cbcd0>, <faker.providers.company.en_US.Provider object at 0x101818310>, <faker.providers.color.en_US.Provider object at 0x1017fdad0>, <faker.providers.barcode.en_US.Provider object at 0x1017fd1d0>, <faker.providers.bank.en_GB.Provider object at 0x101807bd0>, <faker.providers.automotive.en_US.Provider object at 0x101807690>, <faker.providers.address.en_US.Provider object at 0x1017f7250>]
+
+'hex_color' 
+ - #2d7f56
+
+'hexify' 
+ - b155
+
+'hostname' 
+ - srv-52.gomez.biz
+
+'http_method' 
+ - GET
+
+'http_status_code' 
+ - 209
+
+'iana_id' 
+ - 5165426
+
+'iban' 
+ - GB75XCPU65337247142282
+
+'image_url' 
+ - https://dummyimage.com/62x635
+
+'internet_explorer' 
+ - Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 4.0; Trident/3.1)
+
+'invalid_ssn' 
+ - 566-00-9040
+
+'ios_platform_token' 
+ - iPhone; CPU iPhone OS 5_1_1 like Mac OS X
+
+'ipv4' 
+ - 43.233.22.57
+
+'ipv4_network_class' 
+ - a
+
+'ipv4_private' 
+ - 172.24.122.175
+
+'ipv4_public' 
+ - 109.255.134.205
+
+'ipv6' 
+ - 2bb8:d92f:bd64:6cce:9dd6:f33b:5850:d558
+
+'isbn10' 
+ - 1-345-95946-X
+
+'isbn13' 
+ - 978-0-450-24576-3
+
+'iso8601' 
+ - 2005-06-09T22:16:14.040747
+
+'items' 
+ - [('en_US', <faker.generator.Generator object at 0x100809990>)]
+
+'itin' 
+ - 912-72-4220
+
+'job' 
+ - Building services engineer
+
+'json' 
+ - [{"name": "Nicole Crawford", "residency": "65216 Laurie Meadows\nNew Patriciamouth, NE 36606"}, {"name": "David Parker", "residency": "2229 Maria Villages Suite 326\nNew Hannah, WY 52108"}, {"name": "Jamie Miller", "residency": "9887 Monica Corners Apt. 474\nEast William, WV 15480"}, {"name": "Jeffrey Villa", "residency": "7043 Bush Park\nEast Rickeyshire, IA 89142"}, {"name": "Lawrence Ortega", "residency": "Unit 5559 Box 9496\nDPO AA 54115"}, {"name": "Christine Petty", "residency": "7114 Woods Way Suite 472\nWilliamstad, MO 39734"}, {"name": "Matthew Craig", "residency": "345 Barbara Club Suite 895\nEast Stephenport, FM 31757"}, {"name": "Kathryn Arnold", "residency": "5712 Berry Ports Suite 395\nMarcochester, NJ 61316"}, {"name": "Jessica Barnes", "residency": "325 Richardson Crossing\nNew Douglasberg, ID 11813"}, {"name": "Tracy Brown", "residency": "10954 Amy Vista Apt. 786\nWest Christopher, AK 02909"}]
+
+'json_bytes' 
+ - b'[{"name": "Joseph Ramirez", "residency": "6825 Flores Neck Suite 749\\nLake Justin, AS 72476"}, {"name": "Ashley Parrish", "residency": "525 Mcpherson Inlet\\nMaryton, LA 40768"}, {"name": "Mark Mosley", "residency": "400 James Way\\nRachelport, WA 91387"}, {"name": "John Miller DVM", "residency": "52374 Sanders Valley\\nSouth Isabel, IN 22059"}, {"name": "Chase Stevens", "residency": "012 Haley Port\\nWest Richardburgh, MO 71334"}, {"name": "Tyler Martin", "residency": "USNS Peterson\\nFPO AE 43448"}, {"name": "Derrick Patterson", "residency": "061 Eric Fall\\nNew Danielleberg, OH 94552"}, {"name": "Tracy Marshall", "residency": "6601 Gray Creek Suite 004\\nPort Yolanda, MO 24413"}, {"name": "Barbara Jackson", "residency": "USCGC Stone\\nFPO AA 82948"}, {"name": "Alexis Lloyd", "residency": "3016 Miranda Union Suite 409\\nPort Markchester, CA 60684"}]'
+
+'language_code' 
+ - bn
+
+'language_name' 
+ - Maori
+
+'last_name' 
+ - Herrera
+
+'last_name_female' 
+ - Carrillo
+
+'last_name_male' 
+ - Brown
+
+'last_name_nonbinary' 
+ - Green
+
+'latitude' 
+ - 80.7776635
+
+'latlng' 
+ - (Decimal('-7.5301635'), Decimal('-143.508046'))
+
+'lexify' 
+ - RKGK
+
+'license_plate' 
+ - 4P 5W3TFP
+
+'linux_platform_token' 
+ - X11; Linux i686
+
+'linux_processor' 
+ - i686
+
+'local_latlng' 
+ - ('42.4251', '-71.06616', 'Malden', 'US', 'America/New_York')
+
+'locale' 
+ - cs_CZ
+
+'localized_ean' 
+ - 0587987535478
+
+'localized_ean13' 
+ - 1326773854398
+
+'localized_ean8' 
+ - 06605896
+
+'location_on_land' 
+ - ('37.16911', '10.03478', 'El Alia', 'TN', 'Africa/Tunis')
+
+'longitude' 
+ - -107.223224
+
+'mac_address' 
+ - 6c:8f:8e:36:aa:c0
+
+'mac_platform_token' 
+ - Macintosh; Intel Mac OS X 10_11_0
+
+'mac_processor' 
+ - U; Intel
+
+'md5' 
+ - 7c3de3fe80b9b19c0671b6d987731372
+
+'military_apo' 
+ - PSC 5601, Box 5416
+
+'military_dpo' 
+ - Unit 7108 Box 7983
+
+'military_ship' 
+ - USS
+
+'military_state' 
+ - AE
+
+'mime_type' 
+ - message/rfc822
+
+'month' 
+ - 08
+
+'month_name' 
+ - September
+
+'msisdn' 
+ - 8212652064877
+
+'name' 
+ - Alexa Rodriguez
+
+'name_female' 
+ - Ashley Barnes
+
+'name_male' 
+ - Jonathon Esparza
+
+'name_nonbinary' 
+ - Jessica Sutton
+
+'nic_handle' 
+ - ZO1313-FAKE
+
+'nic_handles' 
+ - ['IVMD9865-LXAP']
+
+'null_boolean' 
+ - None
+
+'numerify' 
+ - 502
+
+'opera' 
+ - Opera/9.97.(X11; Linux x86_64; ig-NG) Presto/2.9.169 Version/11.00
+
+'paragraph' 
+ - Management where over realize analysis. Method wife give water seek respond without.
+
+'paragraphs' 
+ - ['Fast beat lot increase pattern business. Occur sound receive husband.', 'Shoulder stand can past Democrat station. Raise painting show against college people. Parent performance it action once.', 'Bed movie lay. Voice rest conference.']
+
+'passport_dates' 
+ - ('11 Feb 2024', '11 Feb 2024', '11 Feb 2029')
+
+'passport_dob' 
+ - 1990-09-20
+
+'passport_full' 
+ - Adrian
+Smith
+M
+11 May 2023
+09 Sep 2023
+09 Sep 2028
+U41154041
+
+
+'passport_gender' 
+ - M
+
+'passport_number' 
+ - 428738200
+
+'passport_owner' 
+ - ('Colleen', 'Bauer')
+
+'password' 
+ - _0Xt_JekB0
+
+'past_date' 
+ - 2024-02-02
+
+'past_datetime' 
+ - 2024-02-10 16:41:01.012898
+
+'phone_number' 
+ - 461.894.1756x57240
+
+'port_number' 
+ - 59668
+
+'postalcode' 
+ - 26973
+
+'postalcode_in_state' 
+ - 65618
+
+'postalcode_plus4' 
+ - 83655-1510
+
+'postcode' 
+ - 74744
+
+'postcode_in_state' 
+ - 89433
+
+'prefix' 
+ - Mr.
+
+'prefix_female' 
+ - Mrs.
+
+'prefix_male' 
+ - Dr.
+
+'prefix_nonbinary' 
+ - Misc.
+
+'pricetag' 
+ - $1.97
+
+'profile' 
+ - {'job': 'Industrial/product designer', 'company': 'Frederick-Porter', 'ssn': '217-73-1915', 'residence': '953 Holly Heights Suite 984\nClarkhaven, MD 23057', 'current_location': (Decimal('26.3977975'), Decimal('-4.227475')), 'blood_group': 'AB-', 'website': ['https://stone.com/', 'https://www.compton.net/'], 'username': 'peter50', 'name': 'William Bradford', 'sex': 'M', 'address': '97539 Catherine Ridge\nDeanport, ID 18518', 'mail': 'eric47@gmail.com', 'birthdate': datetime.date(1994, 11, 25)}
+
+'psv' 
+ - "Andrew Craig"|"99471 Vincent Island Apt. 723
+East Lisaville, MA 16278"
+"Kenneth Cruz"|"58495 Moore Way
+Curtisfort, NH 21410"
+"Ian Taylor"|"575 Romero Manors
+South Colleenmouth, NE 50379"
+"Debra Ewing"|"Unit 9253 Box 4613
+DPO AA 87902"
+"Jennifer Briggs"|"PSC 7422, Box 5660
+APO AA 39875"
+"Beth Hodge"|"19642 Mckinney Dam Apt. 772
+East Allen, MD 62417"
+"Kimberly Sweeney"|"90685 Weber Rapids
+Jessicatown, TN 38282"
+"William Hudson"|"72108 Mary Ridge
+New Kelly, IL 11598"
+"William Williams II"|"1334 Dawn Burgs
+South Kyleshire, MD 07622"
+"Paul Bruce"|"2321 Blankenship Street Suite 514
+Smithstad, NC 46235"
+
+
+'pybool' 
+ - False
+
+'pydecimal' 
+ - 26543509155360144366852981561715450405.9768808858406057231165761314976837042660495401850739151575710155027460457644765290774
+
+'pydict' 
+ - {'field': 'XzrAixTDWJejvqWMwhQU', 'loss': datetime.datetime(1970, 8, 1, 22, 15, 4, 802516), 'development': 'tmejia@example.org', 'finish': 'sgqUlzKNlqoOvkwagFaG', 'buy': 656, 'hot': 'UivhmGqXMcyzJETQmGWN', 'parent': 'yIlVxWHHkkupQeDHnMio', 'Republican': 'raymond21@example.org', 'six': 'http://callahan.com/categoriesabout.html', 'officer': 'https://morgan.com/categoriescategory.php'}
+
+'pyfloat' 
+ - 404.594938381982
+
+'pyint' 
+ - 1741
+
+'pyiterable' 
+ - {'http://knight.com/category/categoriescategory.jsp', datetime.datetime(2020, 3, 6, 6, 50, 8, 353505), 7375, 'DqMQPgfqsUmWYOzRhwAs', 'jBfBGeUCsdgAYmOQEiRu', 'OdEEhMVEVCoHZygMRvFx', 506, 3551}
+
+'pylist' 
+ - [datetime.datetime(1988, 5, 24, 7, 54, 4, 268505), 'LATzNbnPNKXgbhgCQKEf', 937, -426243758473.486, 5257, 250784807870.503]
+
+'pyobject' 
+ - None
+
+'pyset' 
+ - {2561, 22818.6505393094, 'jmujfZFUclfuFxNLGkpJ', 8583, Decimal('-5175777097605066807665831122313780007683704715433.31262971982144668875742738015017529598822234232211574652092085316333262'), -4690.87703117819, datetime.datetime(1996, 11, 27, 22, 30, 48, 791430), 'jEJCpvVoGXVtjilEDPDp', Decimal('-56854430223416387264735406129846598259787180682031286888940212460185703452169205457778986934372795.193831515630575908959370687616538757138398971370984936639873738880771385545905799593374493357342994'), datetime.datetime(2023, 4, 19, 0, 17, 17, 319376), 9272.22668227324, 8925}
+
+'pystr' 
+ - zbQygbaeepPmtuTGZseD
+
+'pystr_format' 
+ - I1-7865680d
+
+'pystruct' 
+ - ([datetime.datetime(1982, 10, 8, 20, 46, 10, 163969), 250, 'JTdSJpLFLspFgkmtZmBz', 132, 'KUvQedFjxDIVItIJEXHG', 'XmtwpkiZQkOYLRRlgeuD', 9400, datetime.datetime(2000, 3, 23, 9, 30, 48, 941123), 'http://kelly.com/explore/tagssearch.php', 'xYnpaZBhljFxaDMTPBgD'], {'ground': Decimal('-1709589969930739683039437.3886080675'), 'hospital': -49047.8758218591, 'hundred': 1582, 'nor': -21193288365.863, 'worker': 'https://lara-cross.org/appregister.jsp', 'throw': datetime.datetime(2022, 7, 5, 15, 32, 50, 286332), 'surface': 2738, 'night': 'WVRzfJDJMZrBhxEndAbD', 'item': Decimal('-2289760432348891577614613912027947110891.57634292184487957293705264587043718037100966003218639788596997203284169302935'), 'deal': 'NABpjiGzUrgAWYpHtlXm'}, {'article': {0: 'PaNTjBXUbBgfwPeztPsr', 1: ['YiMKVGLsvTsgjJGuIiKR', 2282, 'MWdLFAuWjuTbMrGuixTX'], 2: {0: 3512, 1: 2801, 2: [datetime.datetime(1990, 10, 14, 22, 49, 43, 927214), 85290415.9425396]}}, 'discussion': {1: 'PJUrTASsqmgmzKskzXgz', 2: [4398, 3828, Decimal('-6097818573624580474196145989675394989384742474111.0259')], 3: {1: 81252318727.3546, 2: 59209243377.5164, 3: ['ptlwnXTRZeibQRFgRxNa', 'andrewsantana@example.net']}}, 'growth': {2: 4876, 3: ['djrZbmFSEYlPdyIYNkNP', 4645, 'kimberlyfoster@example.com'], 4: {2: 'hPUZLzbAwbNHrBlMLSgj', 3: 6691, 4: ['yhale@example.com', 1648]}}, 'something': {3: datetime.datetime(2013, 5, 24, 2, 35, 19, 445295), 4: ['opowell@example.org', datetime.datetime(2023, 4, 3, 19, 51, 0, 217577), -745.200416021388], 5: {3: 'ivismtSjQqSEBxBrHaJU', 4: datetime.datetime(1981, 9, 10, 0, 2, 23, 233443), 5: [Decimal('-26252502244308876711825561187704.4203811567016980668757575341794375232927744415911621091'), Decimal('-430441775718924599260299993852494710187217328287021111228815137774885368019490555205136857.984354089141931062266222716390346494361395320517025872610548548271755734')]}}, 'world': {4: datetime.datetime(1990, 11, 6, 20, 10, 14, 181537), 5: [613, datetime.datetime(1996, 3, 11, 21, 20, 23, 488469), 'ODJCLjaYAZFFfXWndDoA'], 6: {4: 'EDofSzGuWSBZWGbwoDoL', 5: 'DhsOpDUbSFMyxfyvSZxQ', 6: ['UmBDUSzzeXAmYlgXurZs', 'pxldPsoghnCPnaKVyzvF']}}, 'difficult': {5: 'jennifer08@example.net', 6: ['http://anderson.com/category/tag/categoriesfaq.htm', 'EAFHKvUzDCKJRhNWCIgG', 'ZSmiQGscHcsOJThVgDCo'], 7: {5: 3904, 6: 'UgzGCKjcedpWUEYCWcxb', 7: ['KEneEQYeiMagOksFDbAm', 1790548902.3161]}}, 'development': {6: 'nypfWvBgYGQOKMWkxGEr', 7: [9671, 'patrick77@example.com', 'UFCRxwpQyUcRbTETRoYJ'], 8: {6: 'vkfvNfhpLuVXYAzCqynn', 7: 'jean75@example.net', 8: [datetime.datetime(1998, 7, 16, 11, 48, 27, 664655), 'https://www.garza-arnold.biz/wp-content/wp-contentregister.htm']}}, 'popular': {7: 9525, 8: ['VYTuqKAFDFAiOGLULdTl', 'RSeMXFLutdQUUCHBRJyQ', 'nicholas34@example.net'], 9: {7: 'http://www.lopez.org/postsregister.jsp', 8: 'SIHlVfTDIhcHqlJtkEBw', 9: [Decimal('3552361008686403013812320098896897133446451158785006234024.787741300189437699171240431979912086920642571334267791892145791371'), 'CAhyTfOYPwNluJkBiRxl']}}, 'discuss': {8: 7393, 9: ['FiARBVJNkTWtRASRHtsQ', datetime.datetime(2006, 3, 1, 14, 29, 56, 202575), 'http://www.davis.org/blog/postsauthor.html'], 10: {8: 'castanedaanthony@example.com', 9: 'stacey34@example.com', 10: ['http://www.griffith.com/main/list/mainlogin.html', 'voeJnqGTNbJMCvHZmGEo']}}, 'ever': {9: 'http://robinson-cox.net/appmain.html', 10: ['YCbXOgbNMgQkwdwjusIV', 'williamskyle@example.org', -143492610100.432], 11: {9: 'https://phillips.com/tags/categories/mainabout.asp', 10: 'zATEyRDIxyRqSUBBbsHv', 11: ['sandra18@example.net', Decimal('-8655958875310187878469338495315197144563719547673028273710613656601053107274923522524345814566146.76646445206634249968167026008404786846981761018605157755181952961408074677333702195464647')]}}})
+
+'pytimezone' 
+ - tzfile('/usr/share/zoneinfo/Asia/Hebron')
+
+'pytuple' 
+ - (8122, 'HFTLUHrBYBZhfguiktRs', 'vGKPkHbcPslxjHYVfCzH', 'zeTcKYLEbfXIbPpdbpBD', 'EQFzbhWRnLquVdPOiVjr', 'XwknUhBnUWjvdhJnVfJD')
+
+'random_choices' 
+ - ['b']
+
+'random_digit' 
+ - 1
+
+'random_digit_above_two' 
+ - 5
+
+'random_digit_not_null' 
+ - 5
+
+'random_digit_not_null_or_empty' 
+ - 4
+
+'random_digit_or_empty' 
+ - 6
+
+'random_element' 
+ - a
+
+'random_elements' 
+ - ['c', 'c']
+
+'random_int' 
+ - 1836
+
+'random_letter' 
+ - z
+
+'random_letters' 
+ - ['d', 'W', 'c', 'J', 'R', 'g', 'M', 'I', 's', 'W', 'e', 'C', 'm', 'a', 'd', 'O']
+
+'random_lowercase_letter' 
+ - u
+
+'random_number' 
+ - 744558592
+
+'random_sample' 
+ - ['b']
+
+'random_uppercase_letter' 
+ - I
+
+'randomize_nb_elements' 
+ - 13
+
+'rgb_color' 
+ - 154,29,20
+
+'rgb_css_color' 
+ - rgb(241,114,66)
+
+'ripe_id' 
+ - ORG-VJ85-RIPE
+
+'safari' 
+ - Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; hsb-DE) AppleWebKit/534.39.5 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6534.39.5
+
+'safe_color_name' 
+ - purple
+
+'safe_domain_name' 
+ - example.net
+
+'safe_email' 
+ - mirandasutton@example.com
+
+'safe_hex_color' 
+ - #ddeeaa
+
+'sbn9' 
+ - 410-03885-0
+
+'secondary_address' 
+ - Suite 335
+
+'seed_instance' 
+ - None
+
+'sentence' 
+ - Catch old industry although.
+
+'sentences' 
+ - ['Include use result alone once speak.', 'Stop mouth church skill might red my.', 'Campaign night south look.']
+
+'sha1' 
+ - f90fd2de7dc9e417f83d15b8bc5893db9f621e13
+
+'sha256' 
+ - a34cf542aa998b89957636dce0a0d9c1b2a498811de2c9e41a4c41d4003ba465
+
+'simple_profile' 
+ - {'username': 'cody52', 'name': 'Susan Osborn', 'sex': 'F', 'address': 'Unit 5943 Box 0900\nDPO AE 96573', 'mail': 'jamesnathaniel@gmail.com', 'birthdate': datetime.date(2019, 2, 12)}
+
+'slug' 
+ - trade-compare-thing
+
+'ssn' 
+ - 013-03-9634
+
+'state' 
+ - Florida
+
+'state_abbr' 
+ - TX
+
+'street_address' 
+ - 3681 Johnson Spring
+
+'street_name' 
+ - Cody Run
+
+'street_suffix' 
+ - Gardens
+
+'suffix' 
+ - DDS
+
+'suffix_female' 
+ - MD
+
+'suffix_male' 
+ - DVM
+
+'suffix_nonbinary' 
+ - Jr.
+
+'swift' 
+ - RMOSGB37
+
+'swift11' 
+ - AEFLGBWNWDE
+
+'swift8' 
+ - BFRVGB0Y
+
+'text' 
+ - Red speak character culture occur company morning. House general item cause.
+South agree win box size. List level everyone fish at agent. Avoid apply education great such whose.
+
+'texts' 
+ - ['Adult event science each. Provide price side ready resource generation. Deep successful list every clearly painting seat.', 'Need style until reason more force sing. Level effect similar visit public she.\nUp environment direction already during land half. Least somebody trade class long approach.\nNo bag price might.', 'Hotel investment much notice offer contain answer.\nCollege send back hard talk team. Nearly price animal democratic. Base so buy wind write table without.']
+
+'time' 
+ - 15:32:24
+
+'time_delta' 
+ - 0:00:00
+
+'time_object' 
+ - 01:47:36.447997
+
+'time_series' 
+ - <generator object Provider.time_series at 0x100c9fa70>
+
+'timezone' 
+ - Africa/Windhoek
+
+'tld' 
+ - com
+
+'tsv' 
+ - "Rebekah Meadows"	"670 Amy Drive Suite 835
+Ericland, CT 84085"
+"Manuel Thomas"	"3894 Williams Islands
+West Annehaven, WI 81039"
+"Heather Macdonald"	"3125 Rachel Road
+Rodriguezland, IN 53464"
+"Debbie Whitaker"	"775 John Summit Apt. 829
+Glennmouth, MS 72001"
+"Brittany Guerrero"	"52544 Matthew Landing
+South John, SD 51952"
+"Robert Mclean"	"93400 Mario Wall
+West Jessica, SC 88094"
+"Stephanie Aguilar"	"PSC 0543, Box 2668
+APO AP 42934"
+"Derek Martinez"	"37216 Jones Bypass
+Youngview, ND 99522"
+"Audrey Lee"	"88570 Holly Mountains
+Juliefurt, MI 80305"
+"Lacey Reed"	"97912 John Garden
+Matthewshire, TN 02031"
+
+
+'unix_device' 
+ - /dev/sdt
+
+'unix_partition' 
+ - /dev/xvdk3
+
+'unix_time' 
+ - 678410145.0850043
+
+'upc_a' 
+ - 457426382614
+
+'upc_e' 
+ - 18040035
+
+'uri' 
+ - http://vargas.com/appregister.jsp
+
+'uri_extension' 
+ - .html
+
+'uri_page' 
+ - index
+
+'uri_path' 
+ - explore
+
+'url' 
+ - http://lewis-adams.com/
+
+'user_agent' 
+ - Mozilla/5.0 (Android 4.2; Mobile; rv:39.0) Gecko/39.0 Firefox/39.0
+
+'user_name' 
+ - rowedustin
+
+'uuid4' 
+ - a269d07f-48f7-4724-9a4d-379aa9305d25
+
+'vin' 
+ - 6JYKD51V3DT0MEMTX
+
+'windows_platform_token' 
+ - Windows NT 6.2
+
+'word' 
+ - a
+
+'words' 
+ - ['despite', 'everybody', 'site']
+
+'year' 
+ - 1990
+
+'zipcode' 
+ - 18980
+
+'zipcode_in_state' 
+ - 98542
+
+'zipcode_plus4' 
+ - 56270-5879
+
